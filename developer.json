@@ -1,0 +1,145 @@
+{
+  "name": "Junaid Ahmed",
+  "logo_name": "junaid-ahmed",
+  "role": "Front-end developer",
+  "about": {
+    "sections": {
+      "professional-info": {
+        "title": "professional-info",
+        "icon": "icons/info-professional.svg",
+        "info": {
+          "experience": {
+            "title": "experience",
+            "description": "<b>Vue.js Developer | Alnafi (March 2022 - Present):</b><br>Currently contributing as a Vue.js developer at Alnafi, where I actively participate in the development and enhancement of web applications. My role involves leveraging Vue.js to create dynamic and interactive user interfaces, ensuring a seamless user experience. <br><br> <b>WordPress Developer | Probot9 (Sep 2021 - March 2022):</b>In my role as a WordPress developer at Probot9, I honed my skills in content management system development. During this time, I gained valuable experience in customizing and optimizing WordPress websites, incorporating both design and functionality. <br><br> <b>Web Designer & Developer Intern | 247digital (May 2020 - March 2021):</b> <br> Initiated my journey in web development as an intern at 247digital. During this transformative period, I acquired foundational knowledge in HTML, CSS, and JavaScript, laying the groundwork for my subsequent roles as a frontend developer.<br>"
+          },
+          "hard-skills": {
+            "title": "hard-skills",
+            "description": "<br>As a dedicated front-end developer, I bring a robust skill set to the table, proficient in crafting dynamic and responsive web applications. My foundation lies in HTML, CSS, and JavaScript, forming the backbone of my development capabilities. I have a solid understanding of Vue.js and its server-side renderer, Nuxt, enhancing my ability to build intuitive user interfaces. Additionally, I am actively expanding my expertise in React and Next.js, exploring their potential and honing my skills to contribute effectively in these frameworks. My toolkit also includes the efficient styling approach of Tailwind CSS, enabling me to streamline the design process and deliver modern, visually appealing web applications."
+          },
+          "soft-skills": {
+            "title": "soft-skills",
+            "description": "<br>In my pursuit of continuous growth and innovation, I seamlessly merge my passion for frontend development with a creative touch. Throughout my professional journey, I've excelled in meticulously crafting seamless user interfaces and captivating user experiences. Beyond the code, my skills extend into the realm of graphic design, where I proficiently wield tools like Adobe Photoshop and Illustrator to experiment with and refine visual concepts. Additionally, my expertise encompasses orchestrating delightful UI/UX experiences, utilizing tools such as Figma as my palette for creating intuitive and engaging digital interfaces. These skills, honed through hands-on experience and a commitment to excellence, underscore not just my professional proficiency but also a dedication to delivering high-quality, visually compelling work."
+          }
+        }
+      },
+      "personal-info": {
+        "title": "personal-info",
+        "icon": "icons/info-personal.svg",
+        "info": {
+          "bio": {
+            "title": "bio",
+            "description": "<br> About me <br> As a Frontend Developer, I am a skilled and innovative developer specializing in creating dynamic and interactive user interfaces for web applications. With a strong grasp of HTML, CSS, and JavaScript, I have a passion for crafting seamless and visually appealing experiences that engage users and drive business goals. My ability to collaborate effectively with cross-functional teams and translate design concepts into functional code has been instrumental in delivering successful projects. <br><br> Overall, my dedication to the art of frontend development, problem-solving abilities, and commitment to excellence enable me to contribute significantly to the success of projects, while continuously honing my skills to stay at the forefront of the ever-evolving web landscape."
+          },
+          "interests": {
+            "title": "interests",
+            "description": "<br>I am constantly learning the latest tools and frameworks to stay at the forefront of technology. <br> In my free time, I engage in a dynamic array of hobbies that intertwine my passion for frontend development with a creative flair. While my professional journey excels in crafting seamless user interfaces and captivating user experiences, I find joy in blending these skills with artistic pursuits. As a seasoned gamer, I immerse myself in the captivating worlds of video games, appreciating the artistry and design behind interactive experiences. Additionally, my creative side flourishes through graphic design, where I leverage tools like Adobe Photoshop and Illustrator to experiment with visual concepts. These pursuits, whether honing my coding expertise, orchestrating delightful UI/UX experiences, or crafting digital art, serve as not just professional skills but as passions that drive my continuous growth and innovation."
+          }
+        }
+      },
+      "hobbies-info": {
+        "title": "hobbies-info",
+        "icon": "icons/info-hobbies.svg",
+        "info": {
+          "favorite-games": {
+            "title": "games",
+            "description": "<br>I am a passionate gamer"
+          }
+        }
+      }
+    }
+  },
+  "contacts": {
+    "direct": {
+      "title": "contacts",
+      "sources": {
+        "email": "imaadahmed300@gmail.com",
+        "phone": "+923172999788"
+      }
+    },
+    "social": {
+      "github": {
+        "title": "Github profile",
+        "url": "https://github.com/",
+        "user": "junaidsahar"
+      },
+      "facebook": {
+        "title": "Facebook profile",
+        "url": "https://www.facebook.com/",
+        "user": "dangeriouxcrimnal.dkx"
+      },
+      "linkedin": {
+        "title": "LinkedIn account",
+        "url": "https://www.linkedin.com/in/",
+        "user": "junaid-ahmed-sahar-8903b3224"
+      }
+    },
+    "find_me_also_in": {
+      "title": "find-me-also-in",
+      "sources": {
+        "dribble": {
+          "title": "Dribble profile",
+          "url": "https://dribbble.com/",
+          "user": "Junaid-JK"
+        },
+        "behance": {
+          "title": "Behance profile",
+          "url": "https://www.behance.net/",
+          "user": "imaadahmed4ce4"
+        },
+        "instagram": {
+          "title": "Instagram account",
+          "url": "https://www.instagram.com/",
+          "user": "_junaid_ahmed_sahar/"
+        }
+      }
+    }
+  },
+  "gists": {
+    "1": "83861a67e377633ee8368df01ee3a355",
+    "2": "694c1f32332788a2ac7f37b09e5aa40e"
+  },
+  "projects": {
+    "1": {
+      "title": "_alnafi.com",
+      "description": "E learning platform new website using 3-Tier Architecture. Deployed on AWS with load balancing for autoscaling. Tailwind and Nuxt.js on the front end, with Django and MySql powering the backend Microservices Architecture, Vue3, Nuxt, Tailwindcss, Strapi, Django Python, Google Tag Manager, Sentry and Swipper",
+      "img": "/images/projects/alnafi.png",
+      "tech": ["Vue"],
+      "url": "https://alnafi.com/"
+    },
+    "2": {
+      "title": "_alnafi-cloud",
+      "description": "Cloud Labs platform website using 3-Tier Architecture. Deployed on AWS with load balancing for autoscaling. Tailwind and Nuxt.js on the front end, with Django and MySql powering the backend Microservices Architecture, Vue3, Nuxt, Tailwindcss, Django Python and Sentry",
+      "img": "/images/projects/alnafi.cloud.png",
+      "tech": ["Vue"],
+      "url": "https://alnafi.cloud/"
+    },
+    "3": {
+      "title": "_alnafi-academy",
+      "description": "O level academy website using 3-Tier Architecture. Deployed on AWS with load balancing for autoscaling. Tailwind and Nuxt.js on the front end, with Django and MySql powering the backend Microservices Architecture, Vue3, Nuxt, Tailwindcss, Strapi, Django Python, Google Tag Manager and Matoma Analytics",
+      "img": "/images/projects/alnafi.academy.png",
+      "tech": ["Vue"],
+      "url": "https://alnafi.academy/"
+    },
+    "4": {
+      "title": "_data-lake",
+      "description": "Data lake for the for storing all applications products users payments data. Deployed on AWS with load balancing for autoscaling. Tailwind and Nuxt.js on the front end, with Django and MySql powering the backend Microservices Architecture, Vue3, Nuxt, Tailwindcss, Django Python, Apexchart",
+      "img": "/images/projects/data-lake.png",
+      "tech": ["Vue"],
+      "url": "https://github.com/JunaidSahar/data-lake-admin-template"
+    },
+    "5": {
+      "title": "_mind-smack",
+      "description": "Real-time movie data from The Movie Database (TMDb), Stunning UI powered by Tailwind CSS, This project was a labor of love, combining the power of Vue.js/Nuxt.js for a fast and responsive frontend with TMDb's extensive movie data for a comprehensive catalog. Plus, the UI is a visual treat thanks to Tailwind CSS. <br>Check out GitHub repo here: <a target='_blank' href='https://github.com/JunaidSahar/mind-smack'>https://github.com/JunaidSahar/mind-smack</a></br>",
+      "img": "/images/projects/mind-smack.png",
+      "tech": ["Vue"],
+      "url": "https://mindsmack.netlify.app/"
+    },
+    "6": {
+      "title": "_alnafi-epay",
+      "description": "EPAY website using 3-Tier Architecture. Deployed on AWS with load balancing for autoscaling. Tailwind and Nuxt.js on the front end, with Django and MySql powering the backend Microservices Architecture, Vue3, Nuxt, Tailwindcss, Django Python, Google Tag Manager and Matoma Analytics",
+      "img": "/images/projects/epay.png",
+      "tech": ["Vue"],
+      "url": "https://epay.com.pk/"
+    }
+  }
+}
