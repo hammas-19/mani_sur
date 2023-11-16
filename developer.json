@@ -1,7 +1,7 @@
 {
-  "name": "Junaid Ahmed",
-  "logo_name": "junaid-ahmed",
-  "role": "Front-end developer",
+  "name": "Hammas Masood,",
+  "logo_name": "hammas-masood",
+  "role": "A Front-end Developer",
   "about": {
     "sections": {
       "professional-info": {
@@ -10,7 +10,7 @@
         "info": {
           "experience": {
             "title": "experience",
-            "description": "<b>Vue.js Developer | Alnafi (March 2022 - Present):</b><br>Currently contributing as a Vue.js developer at Alnafi, where I actively participate in the development and enhancement of web applications. My role involves leveraging Vue.js to create dynamic and interactive user interfaces, ensuring a seamless user experience. <br><br> <b>WordPress Developer | Probot9 (Sep 2021 - March 2022):</b>In my role as a WordPress developer at Probot9, I honed my skills in content management system development. During this time, I gained valuable experience in customizing and optimizing WordPress websites, incorporating both design and functionality. <br><br> <b>Web Designer & Developer Intern | 247digital (May 2020 - March 2021):</b> <br> Initiated my journey in web development as an intern at 247digital. During this transformative period, I acquired foundational knowledge in HTML, CSS, and JavaScript, laying the groundwork for my subsequent roles as a frontend developer.<br>"
+            "description": "<b>Vue.js Developer | Alnafi (October 2022 - Present):</b><br>Currently contributing as a Vue.js developer at Alnafi, where I actively participate in the development and enhancement of web applications. My role involves leveraging Vue.js with Nuxt.js to create dynamic and interactive user interfaces,Inetgrating API's and ensuring a seamless user experience. <br><br> <b> Nuxt.js Developer Intern | AL Nafi (July 2022 - October 2022):</b> <br> Initiated my journey in web development as an intern at AL Nafi. During this transformative period, I acquired foundational knowledge in Tailwind CSS, and Functional JavaScript, Vue.js and Nuxt.js laying the groundwork for my subsequent roles as a frontend developer.<br>"
           },
           "hard-skills": {
             "title": "hard-skills",
@@ -18,7 +18,7 @@
           },
           "soft-skills": {
             "title": "soft-skills",
-            "description": "<br>In my pursuit of continuous growth and innovation, I seamlessly merge my passion for frontend development with a creative touch. Throughout my professional journey, I've excelled in meticulously crafting seamless user interfaces and captivating user experiences. Beyond the code, my skills extend into the realm of graphic design, where I proficiently wield tools like Adobe Photoshop and Illustrator to experiment with and refine visual concepts. Additionally, my expertise encompasses orchestrating delightful UI/UX experiences, utilizing tools such as Figma as my palette for creating intuitive and engaging digital interfaces. These skills, honed through hands-on experience and a commitment to excellence, underscore not just my professional proficiency but also a dedication to delivering high-quality, visually compelling work."
+            "description": "<br>Proficient in presentation and content writing, I excel at articulating complex ideas clearly. I thrive in group settings, fostering collaboration for shared goals. When working independently, I am self-motivated and deliver high-quality results. With strong leadership qualities, I guide others effectively. I'm a problem solver, using innovative strategies, and my typing speed of 60 WPM ensures efficient task handling. These skills underscore my adaptability and effectiveness in diverse professional scenarios."
           }
         }
       },

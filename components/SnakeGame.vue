@@ -405,11 +405,11 @@
 #console {
     width: 530px;
     height: 475px;
-    border: 1px solid black;
+    /* border: 1px solid #00ffff5e;.,. */
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background: linear-gradient(to bottom,  rgba(251, 111, 146, 0.13), rgba(255, 223, 0, 1));
+    background: linear-gradient(to bottom,  #70aa8d, #92dfb9);
     border-radius: 10px;
     padding: 30px;
     position: relative;
@@ -431,7 +431,7 @@
   padding-block: 8px;
   border-radius: 10px;
   border: 1px solid white;
-  background-color: #FF7B00;
+  background-color: #80be9f;
   color: black;
   cursor: pointer;
   position: absolute;
@@ -442,7 +442,7 @@
 }
 
 #start-button:hover {
-  background-color: rgb(255, 178, 119);
+  background-color: #92dfb9;
 }
 
 #console-menu{
@@ -461,7 +461,7 @@
 
 #console-button:hover {
   background-color: #010c15d8;
-  box-shadow: #FF7B00 0 0 10px;
+  box-shadow: #92dfb9 0 0 10px;
 }
 
 #instructions {

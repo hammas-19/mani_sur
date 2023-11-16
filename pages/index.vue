@@ -9,7 +9,7 @@
 		
 			<div class="head">
 				<span>
-					Hi all, I am
+					Hi Fellas, I am
 				</span>
 				<h1>{{ config.dev.name }}</h1>
 				<h2>> {{ config.dev.role }}</h2>
@@ -20,7 +20,7 @@
 					// complete the game to continue
 				</span>
 				<span :class="{hide: isMobile}">
-					// you can also see it on my Github page
+					// you can also skip it!
 				</span>
 				<span :class="{hide: !isMobile}">
 					// find my profile on Github:
@@ -103,7 +103,7 @@
 #hello .head h2 {
   font-size: 32px;
   line-height: 1;
-  color: #FF7B00;
+  color: #92dfb9;
   font-family: 'Fira Code Retina';
 }
 
@@ -134,7 +134,7 @@
 }
 
 .code .variable-name {
-  color: #FF7B00;
+  color: #a2f7cc;
 }
 
 .code .operator {
@@ -168,7 +168,7 @@
 	border-radius: 0% 0% 50% 50%;
   rotate: 10deg;
 	filter: blur(70px);
-  background: radial-gradient(circle at 50% 50%,rgba(255, 123, 0, 1), rgba(255, 234, 0, 0));
+  background: radial-gradient(circle at 50% 50%,#6ff8b1, #ffea0000);
   opacity: 0.5;
   z-index: 10;
 }
@@ -181,7 +181,7 @@
   height: 300px;
 	border-radius: 0% 50% 0% 50%;
 	filter: blur(70px);
-  background: radial-gradient(circle at 50% 50%,rgba(255, 229, 236, 1), rgba(251, 111, 144, 0));
+  background: radial-gradient(circle at 50% 50%,#6ff8b1, #fb6f9000);
   opacity: 0.5;
   z-index: 10;
 }
