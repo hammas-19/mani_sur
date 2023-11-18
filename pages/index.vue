@@ -100,6 +100,12 @@
   padding-bottom: 1rem; /* 16px */
 }
 
+/* #hello .head h2 {
+  font-size: 32px;
+  line-height: 1;
+  color: #92dfb9;
+  font-family: 'Fira Code Retina';
+} */
 #hello .head h2 {
   font-size: 32px;
   line-height: 1;
