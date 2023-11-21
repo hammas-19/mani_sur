@@ -124,7 +124,7 @@
 
         // start game
         this.gameStarted = true;
-        this.gameInterval = setInterval(this.moveSnake, 50);
+        this.gameInterval = setInterval(this.moveSnake, 20);
       },
       startAgain() {
         // Mostrar botón de start-game
@@ -271,9 +271,9 @@
             
             /* Food cell style */
             if (j === this.food.x && i === this.food.y) {
-              cell.style.backgroundColor = "#43D9AD";
+              cell.style.backgroundColor = "#92DFB9";
               cell.style.borderRadius = "50%";
-              cell.style.boxShadow = "0 0 10px #43D9AD";
+              cell.style.boxShadow = "0 0 10px #92DFB9";
             }
     
             /* Estilo de la serpiente a medida que va crediendo */
@@ -282,7 +282,7 @@
             );
 
             if (snakeCell) {
-                cell.style.backgroundColor = "#43D9AD";
+                cell.style.backgroundColor = "#92DFB9";
                 cell.style.opacity = 1 - (this.snake.indexOf(snakeCell) / this.snake.length);
               cell.classList.add("green");
 
