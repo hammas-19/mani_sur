@@ -158,7 +158,7 @@
         <div id="gists-content" class="flex">
         
           <div id="gists" class="flex flex-col lg:px-6 lg:py-4 w-full overflow-hidden">
-            <h3 class="text-white lg:text-menu-text mb-4 text-sm">// Code snippet showcase:</h3>
+            <h3 class="text-white lg:text-menu-text mb-4 text-sm">// Fun Code snippets:</h3>
 
             <div class="flex flex-col overflow-scroll">
               <GistSnippet data-aos="fade-down" />

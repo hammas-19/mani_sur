@@ -10,7 +10,7 @@
         "info": {
           "experience": {
             "title": "experience",
-            "description": "<b>Vue.js Developer | Alnafi (October 2022 - Present):</b><br>Currently contributing as a Vue.js developer at Alnafi, where I actively participate in the development and enhancement of web applications. My role involves leveraging Vue.js with Nuxt.js to create dynamic and interactive user interfaces,Inetgrating API's and ensuring a seamless user experience. <br><br> <b> Nuxt.js Developer Intern | AL Nafi (July 2022 - October 2022):</b> <br> Initiated my journey in web development as an intern at AL Nafi. During this transformative period, I acquired foundational knowledge in Tailwind CSS, and Functional JavaScript, Vue.js and Nuxt.js laying the groundwork for my subsequent roles as a frontend developer.<br>"
+            "description": "<b>Nuxt.js Developer | Alnafi (October 2022 - Present):</b><br>Currently contributing as a Nuxt.js developer at Alnafi, where I actively participate in the development and enhancement of web applications. My role involves leveraging Vue.js with Nuxt.js to create dynamic and interactive user interfaces,Inetgrating API's and ensuring a seamless user experience. <br><br> <b> Nuxt.js Developer Intern | AL Nafi (July 2022 - October 2022):</b> <br> Initiated my journey in web development as an intern at AL Nafi. During this transformative period, I acquired foundational knowledge in Tailwind CSS, and Functional JavaScript, Vue.js and Nuxt.js laying the groundwork for my subsequent roles as a frontend developer.<br>"
           },
           "hard-skills": {
             "title": "hard-skills",
@@ -28,7 +28,7 @@
         "info": {
           "bio": {
             "title": "bio",
-            "description": "<br> About me <br> As a Frontend Developer, I am a skilled and innovative developer specializing in creating dynamic and interactive user interfaces for web applications. With a strong grasp of HTML, CSS, and JavaScript, I have a passion for crafting seamless and visually appealing experiences that engage users and drive business goals. My ability to collaborate effectively with cross-functional teams and translate design concepts into functional code has been instrumental in delivering successful projects. <br><br> Overall, my dedication to the art of frontend development, problem-solving abilities, and commitment to excellence enable me to contribute significantly to the success of projects, while continuously honing my skills to stay at the forefront of the ever-evolving web landscape."
+            "description": "<br> As a versatile Front-end Web Developer, I possess a solid foundation in front-end development principles, which allows me to adapt quickly and be a perfect fit for any application. My ability to grasp new concepts rapidly and my aptitude for problem-solving enable me to tackle various challenges and requirements effectively. With a strong focus on user experience and attention to detail, I can create seamless and responsive web solutions that cater to diverse audiences."
           },
           "interests": {
             "title": "interests",
@@ -52,8 +52,8 @@
     "direct": {
       "title": "contacts",
       "sources": {
-        "email": "imaadahmed300@gmail.com",
-        "phone": "+923172999788"
+        "email": "hammasmasood@gmail.com",
+        "phone": "+92 316 2411434"
       }
     },
     "social": {
