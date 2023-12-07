@@ -309,7 +309,8 @@ module.exports = {
       "placeholder-gray": "#465E77",
       "greenfy": "#43D9AD",
       "bluefy-dark": "#011627",
-      "purplefy": "#5565E8"
+      "purplefy": "#5565E8",
+      "glitch-mine": "#92dfb9"
     },
     "columns": {
       "1": "1",
@@ -767,7 +768,8 @@ module.exports = {
       "placeholder-gray": "#465E77",
       "greenfy": "#43D9AD",
       "bluefy-dark": "#011627",
-      "purplefy": "#5565E8"
+      "purplefy": "#5565E8",
+      "glitch-mine": "#92dfb9"
     },
     "backgroundImage": {
       "none": "none",
@@ -1130,6 +1132,7 @@ module.exports = {
       "greenfy": "#43D9AD",
       "bluefy-dark": "#011627",
       "purplefy": "#5565E8",
+      "glitch-mine": "#92dfb9",
       "DEFAULT": "#e5e7eb"
     },
     "borderOpacity": {
@@ -1506,7 +1509,8 @@ module.exports = {
       "placeholder-gray": "#465E77",
       "greenfy": "#43D9AD",
       "bluefy-dark": "#011627",
-      "purplefy": "#5565E8"
+      "purplefy": "#5565E8",
+      "glitch-mine": "#92dfb9"
     },
     "caretColor": {
       "inherit": "inherit",
@@ -1800,7 +1804,8 @@ module.exports = {
       "placeholder-gray": "#465E77",
       "greenfy": "#43D9AD",
       "bluefy-dark": "#011627",
-      "purplefy": "#5565E8"
+      "purplefy": "#5565E8",
+      "glitch-mine": "#92dfb9"
     },
     "accentColor": {
       "inherit": "inherit",
@@ -2095,6 +2100,7 @@ module.exports = {
       "greenfy": "#43D9AD",
       "bluefy-dark": "#011627",
       "purplefy": "#5565E8",
+      "glitch-mine": "#92dfb9",
       "auto": "auto"
     },
     "contrast": {
@@ -2441,6 +2447,7 @@ module.exports = {
       "greenfy": "#43D9AD",
       "bluefy-dark": "#011627",
       "purplefy": "#5565E8",
+      "glitch-mine": "#92dfb9",
       "DEFAULT": "#e5e7eb"
     },
     "divideOpacity": {
@@ -2781,7 +2788,8 @@ module.exports = {
       "placeholder-gray": "#465E77",
       "greenfy": "#43D9AD",
       "bluefy-dark": "#011627",
-      "purplefy": "#5565E8"
+      "purplefy": "#5565E8",
+      "glitch-mine": "#92dfb9"
     },
     "grayscale": {
       "0": "0",
@@ -3298,7 +3306,8 @@ module.exports = {
       "placeholder-gray": "#465E77",
       "greenfy": "#43D9AD",
       "bluefy-dark": "#011627",
-      "purplefy": "#5565E8"
+      "purplefy": "#5565E8",
+      "glitch-mine": "#92dfb9"
     },
     "gridAutoColumns": {
       "auto": "auto",
@@ -4068,7 +4077,8 @@ module.exports = {
       "placeholder-gray": "#465E77",
       "greenfy": "#43D9AD",
       "bluefy-dark": "#011627",
-      "purplefy": "#5565E8"
+      "purplefy": "#5565E8",
+      "glitch-mine": "#92dfb9"
     },
     "placeholderOpacity": {
       "0": "0",
@@ -4379,7 +4389,8 @@ module.exports = {
       "placeholder-gray": "#465E77",
       "greenfy": "#43D9AD",
       "bluefy-dark": "#011627",
-      "purplefy": "#5565E8"
+      "purplefy": "#5565E8",
+      "glitch-mine": "#92dfb9"
     },
     "outlineOffset": {
       "0": "0px",
@@ -4688,7 +4699,8 @@ module.exports = {
       "placeholder-gray": "#465E77",
       "greenfy": "#43D9AD",
       "bluefy-dark": "#011627",
-      "purplefy": "#5565E8"
+      "purplefy": "#5565E8",
+      "glitch-mine": "#92dfb9"
     },
     "ringOffsetColor": {
       "inherit": "inherit",
@@ -4982,7 +4994,8 @@ module.exports = {
       "placeholder-gray": "#465E77",
       "greenfy": "#43D9AD",
       "bluefy-dark": "#011627",
-      "purplefy": "#5565E8"
+      "purplefy": "#5565E8",
+      "glitch-mine": "#92dfb9"
     },
     "ringOffsetWidth": {
       "0": "0px",
@@ -5463,7 +5476,8 @@ module.exports = {
       "placeholder-gray": "#465E77",
       "greenfy": "#43D9AD",
       "bluefy-dark": "#011627",
-      "purplefy": "#5565E8"
+      "purplefy": "#5565E8",
+      "glitch-mine": "#92dfb9"
     },
     "strokeWidth": {
       "0": "0",
@@ -5762,7 +5776,8 @@ module.exports = {
       "placeholder-gray": "#465E77",
       "greenfy": "#43D9AD",
       "bluefy-dark": "#011627",
-      "purplefy": "#5565E8"
+      "purplefy": "#5565E8",
+      "glitch-mine": "#92dfb9"
     },
     "textDecorationColor": {
       "inherit": "inherit",
@@ -6056,7 +6071,8 @@ module.exports = {
       "placeholder-gray": "#465E77",
       "greenfy": "#43D9AD",
       "bluefy-dark": "#011627",
-      "purplefy": "#5565E8"
+      "purplefy": "#5565E8",
+      "glitch-mine": "#92dfb9"
     },
     "textDecorationThickness": {
       "0": "0px",
