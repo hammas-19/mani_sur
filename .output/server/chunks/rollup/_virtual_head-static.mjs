@@ -1,0 +1,4 @@
+const _virtual__headStatic = {"headTags":"<meta charset=\"utf-8\">\n<title>Hammas Masood, | A Front-end Developer</title>\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n<meta name=\"description\" content=\"A awesome developer portfolio design.\">\n<meta property=\"og:title\" content=\"Hammas Masood, | A Front-end Developer\">\n<meta property=\"og:description\" content=\"A awesome developer portfolio design.\">\n<meta property=\"og:image\" content=\"demo-share.jpg\">\n<meta property=\"og:url\" content=\"https://developer-portfolio-v1.netlify.app/\">\n<meta name=\"theme-color\" content=\"#010C15\">\n<link rel=\"manifest\" href=\"pwa/manifest.json\">\n<link rel=\"apple-touch-icon\" href=\"pwa/icons/apple-touch-icon.png\">","bodyTags":"","bodyTagsOpen":"","htmlAttrs":"","bodyAttrs":""};
+
+export { _virtual__headStatic as default };
+//# sourceMappingURL=_virtual_head-static.mjs.map
