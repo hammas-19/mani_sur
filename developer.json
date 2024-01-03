@@ -74,22 +74,12 @@
       }
     },
     "find_me_also_in": {
-      "title": "find-me-also-in",
-      "sources": {
-        "dribble": {
-          "title": "Dribble profile",
-          "url": "https://dribbble.com/",
-          "user": "Junaid-JK"
-        },
-        "behance": {
-          "title": "Behance profile",
-          "url": "https://www.behance.net/",
-          "user": "imaadahmed4ce4"
-        },
+      "title": "also-find-me-in",
+      "sources": {        
         "instagram": {
           "title": "Instagram account",
           "url": "https://www.instagram.com/",
-          "user": "_junaid_ahmed_sahar/"
+          "user": "hammas_masood/"
         }
       }
     }
@@ -121,18 +111,18 @@
       "url": "https://alnafi.academy/"
     },
     "4": {
-      "title": "_data-lake",
-      "description": "Data lake for the for storing all applications products users payments data. Deployed on AWS with load balancing for autoscaling. Tailwind and Nuxt.js on the front end, with Django and MySql powering the backend Microservices Architecture, Vue3, Nuxt, Tailwindcss, Django Python, Apexchart",
-      "img": "/images/projects/data-lake.png",
+      "title": "_knowgistic",
+      "description": "A web Application for exams preparation includes pre-made mocks and custom mocks with a pool of Authentic Data source.",
+      "img": "/images/projects/knowgistic2.png",
       "tech": ["Vue"],
-      "url": "https://github.com/JunaidSahar/data-lake-admin-template"
+      "url": "https://knowgistic.netlify.app/"
     },
     "5": {
-      "title": "_mind-smack",
-      "description": "Real-time movie data from The Movie Database (TMDb), Stunning UI powered by Tailwind CSS, This project was a labor of love, combining the power of Vue.js/Nuxt.js for a fast and responsive frontend with TMDb's extensive movie data for a comprehensive catalog. Plus, the UI is a visual treat thanks to Tailwind CSS. <br>Check out GitHub repo here: <a target='_blank' href='https://github.com/JunaidSahar/mind-smack'>https://github.com/JunaidSahar/mind-smack</a></br>",
-      "img": "/images/projects/mind-smack.png",
+      "title": "_tiffon",
+      "description": "An e-commerce website called Tiffon offering daily lunch options to office going people using Vue.js, Nuxt.js, and Strapi. <br>Check out GitHub repo here: <a target='_blank' href='https://github.com/hammas-19/tiffon'>https://github.com/hammas-19/tiffon</a></br>",
+      "img": "/images/projects/Tiffon5.png",
       "tech": ["Vue"],
-      "url": "https://mindsmack.netlify.app/"
+      "url": "https://github.com/hammas-19/tiffon"
     },
     "6": {
       "title": "_alnafi-epay",

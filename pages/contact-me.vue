@@ -28,7 +28,7 @@
                 <div class="title" @click="open('find-me-in')">
                     <img class="arrow" src="/icons/arrow.svg">
                     <h3>
-                        find-me-also-in
+                        also-find-me-in
                     </h3>
                 </div>
                 <div id="links">

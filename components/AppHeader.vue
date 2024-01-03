@@ -3,8 +3,9 @@
       <nav class="w-full flex justify-between border-bot">
 
           <div class="flex">
-            <NuxtLink id="nav-logo" to="/">
+            <NuxtLink id="nav-logo" to="/" class="flex gap-2 items-center">
               {{ config.dev.logo_name }}
+              <img src="/Hammas-Masood.jpg" class="w-8 h-8 object-cover rounded-full border-2 border-glitch-mine" alt="Hammas Masood">
             </NuxtLink>
 
             <NuxtLink id="nav-link" to="/" :class="{ active: isActive('/') }">

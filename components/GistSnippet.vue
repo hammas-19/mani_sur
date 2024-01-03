@@ -5,7 +5,7 @@
 
             <div class="flex">
                 <!-- avatar -->
-                <img src="/Hammas-Masood.jpg" alt="" class="w-8 h-8 object-cover rounded-full mr-2">
+                <img src="/Hammas-Masood.jpg" alt="Hammas" class="w-8 h-8 object-cover rounded-full mr-2">
 
                 <!-- username & gist date info -->
                 <div class="flex flex-col">

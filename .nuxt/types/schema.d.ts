@@ -130,22 +130,6 @@ declare module '@nuxt/schema' {
             title: string,
 
             sources: {
-               dribble: {
-                  title: string,
-
-                  url: string,
-
-                  user: string,
-               },
-
-               behance: {
-                  title: string,
-
-                  url: string,
-
-                  user: string,
-               },
-
                instagram: {
                   title: string,
 
