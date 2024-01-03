@@ -17,17 +17,17 @@ export default {
     "file": "FiraCode-Retina.2353fa3f.ttf",
     "src": "assets/fonts/fira-code/FiraCode-Retina.ttf"
   },
-  "assets/fonts/fira-code/FiraCode-SemiBold.ttf": {
-    "resourceType": "font",
-    "mimeType": "font/ttf",
-    "file": "FiraCode-SemiBold.acc523d8.ttf",
-    "src": "assets/fonts/fira-code/FiraCode-SemiBold.ttf"
-  },
   "assets/fonts/fira-code/FiraCode-Medium.ttf": {
     "resourceType": "font",
     "mimeType": "font/ttf",
     "file": "FiraCode-Medium.e6130d9c.ttf",
     "src": "assets/fonts/fira-code/FiraCode-Medium.ttf"
+  },
+  "assets/fonts/fira-code/FiraCode-SemiBold.ttf": {
+    "resourceType": "font",
+    "mimeType": "font/ttf",
+    "file": "FiraCode-SemiBold.acc523d8.ttf",
+    "src": "assets/fonts/fira-code/FiraCode-SemiBold.ttf"
   },
   "assets/fonts/fira-code/FiraCode-Bold.ttf": {
     "resourceType": "font",
@@ -224,25 +224,10 @@ export default {
     "file": "error-500.aa16ed4d.css",
     "resourceType": "style"
   },
-  "pages/index.css": {
-    "resourceType": "style",
-    "file": "index.27b42e8f.css",
-    "src": "pages/index.css"
-  },
-  "node_modules/@nuxt/ui-templates/dist/templates/error-404.css": {
-    "resourceType": "style",
-    "file": "error-404.23f2309d.css",
-    "src": "node_modules/@nuxt/ui-templates/dist/templates/error-404.css"
-  },
   "node_modules/nuxt/dist/app/entry.css": {
     "resourceType": "style",
     "file": "entry.0af3e8aa.css",
     "src": "node_modules/nuxt/dist/app/entry.css"
-  },
-  "node_modules/@nuxt/ui-templates/dist/templates/error-500.css": {
-    "resourceType": "style",
-    "file": "error-500.aa16ed4d.css",
-    "src": "node_modules/@nuxt/ui-templates/dist/templates/error-500.css"
   },
   "pages/about-me.css": {
     "resourceType": "style",
@@ -254,9 +239,24 @@ export default {
     "file": "projects.de832e29.css",
     "src": "pages/projects.css"
   },
+  "node_modules/@nuxt/ui-templates/dist/templates/error-500.css": {
+    "resourceType": "style",
+    "file": "error-500.aa16ed4d.css",
+    "src": "node_modules/@nuxt/ui-templates/dist/templates/error-500.css"
+  },
   "pages/contact-me.css": {
     "resourceType": "style",
     "file": "contact-me.350563cd.css",
     "src": "pages/contact-me.css"
+  },
+  "pages/index.css": {
+    "resourceType": "style",
+    "file": "index.27b42e8f.css",
+    "src": "pages/index.css"
+  },
+  "node_modules/@nuxt/ui-templates/dist/templates/error-404.css": {
+    "resourceType": "style",
+    "file": "error-404.23f2309d.css",
+    "src": "node_modules/@nuxt/ui-templates/dist/templates/error-404.css"
   }
 }
